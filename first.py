@@ -1,1 +1,1 @@
-print(this is dev)
+print('this is dev')
